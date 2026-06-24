@@ -1,5 +1,5 @@
 ## About me
-I'm Shiv, a Cloud Engineer specializing in Artificial Intelligence and Infrastructure Automation.
+I'm Shiv, a Cloud Engineering Student specializing in Artificial Intelligence and Infrastructure Automation.
 
 Currently pursuing a dual-degree track in Computer Science Engineering and Data Science. My core focus is on deploying scalable backend solutions, optimizing data-driven models, and engineering clean systems that solve structural technical problems.
 
